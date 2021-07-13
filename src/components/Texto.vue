@@ -9,6 +9,8 @@
       <h4>{{ texto | mayYmin(true) }}</h4>
       <h4>{{ texto | mayYmin(false) }}</h4>
     </div>
+
+    <p>1:b 2:b 3:c 4:b 5:b,c</p>
   </div>
 </template>
 
